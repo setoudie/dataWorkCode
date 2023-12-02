@@ -1,0 +1,141 @@
+,Vraies Noms,Noms Encodes
+0,All-net 500F=2000F;5d,18
+1,On net 200F=Unlimited _call24H,107
+2,"Data:490F=1GB,7d",44
+3,"Data: 100 F=40MB,24H",30
+4,Mixt 250F=Unlimited_call24H,100
+5,MIXT:500F= 2500F on net _2500F off net;2d,96
+6,"Data:1000F=2GB,30d",34
+7,All-net 500F =2000F_AllNet_Unlimited,16
+8,Jokko_Daily,84
+9,"Data: 200 F=100MB,24H",31
+10,IVR Echat_Daily_50F,77
+11,"On-net 500=4000,10d",112
+12,On-net 500F_FNF;3d,113
+13,"Data:200F=Unlimited,24H",40
+14,MIXT: 200mnoff net _unl on net _5Go;30d,88
+15,On-net 1000F=10MilF;10d,108
+16,VAS(IVR_Radio_Daily),126
+17,"Data:1000F=5GB,7d",35
+18,Twter_U2opia_Daily,123
+19,All-net 600F= 3000F ;5d,20
+20,On-net 200F=60mn;1d,110
+21,All-net 1000=5000;5d,11
+22,"Data:500F=2GB,24H",45
+23,Twter_U2opia_Weekly,125
+24,"Data:3000F=10GB,30d",41
+25,MIXT: 390F=04HOn-net_400SMS_400 Mo;4h	,89
+26,All-net 500F=1250F_AllNet_1250_Onnet;48h,17
+27,"Data:300F=100MB,2d",42
+28,Data:50F=30MB_24H,46
+29,All-net 1000F=(3000F On+3000F Off);5d,12
+30,On net 200F= 3000F_10Mo ;24H,106
+31,MIXT: 590F=02H_On-net_200SMS_200 Mo;24h		,93
+32,Data:DailyCycle_Pilot_1.5GB,49
+33,All-net 300=600;2d,13
+34,"Data:150F=SPPackage1,24H",39
+35,200=Unlimited1Day,3
+36,"Data:1500F=3GB,30D",37
+37,Jokko_promo,87
+38,"Data:700F=1.5GB,7d",47
+39,On-net 300F=1800F;3d,111
+40,Facebook_MIX_2D,71
+41,Data:30Go_V 30_Days,43
+42,Pilot_Youth4_490,116
+43,CVM_on-net bundle 500=5000,29
+44,MROMO_TIMWES_RENEW,98
+45,Jokko_Monthly,85
+46,MROMO_TIMWES_OneDAY,97
+47,WIFI_Family_2MBPS,131
+48,"Data:1500F=SPPackage1,30d",38
+49,Yewouleen_PKG,134
+50,Twter_U2opia_Monthly,124
+51,"YMGX 100=1 hour FNF, 24H/1 month",132
+52,New_YAKALMA_4_ALL,105
+53,Pilot_Youth1_290,115
+54,"Data: 490F=Night,00H-08H",33
+55,Internat: 1000F_Zone_1;24H		,81
+56,All-net 5000= 20000off+20000on;30d,14
+57,SUPERMAGIK_5000,120
+58,On-net 2000f_One_Month_100H; 30d,109
+59,MIXT:1000F=4250 Off net _ 4250F On net _100Mo; 5d,95
+60,FNF2 ( JAPPANTE),69
+61,SUPERMAGIK_1000,119
+62,DataPack_Incoming,52
+63,"MIXT: 500F=75(SMS, ONNET, Mo)_1000FAllNet;24h		",92
+64,MIXT:10000F=10hAllnet_3Go_1h_Zone3;30d		,94
+65,Jokko_Weekly,86
+66,EVC_500=2000F,61
+67,WIFI_ Family _4MBPS,130
+68,"Data:700F=SPPackage1,7d",48
+69,200F=10mnOnNetValid1H,5
+70,Staff_CPE_Rent,121
+71,FIFA_TS_daily,66
+72,MIXT: 5000F=80Konnet_20Koffnet_250Mo;30d		,91
+73,500=Unlimited3Day,8
+74,IVR Echat_Weekly_200F,79
+75,All-net 500F=4000F ; 5d,19
+76,TelmunCRBT_daily,122
+77,"Data: 200F=1GB,24H",32
+78,"MIXT: 4900F= 10H on net_1,5Go ;30d",90
+79,VAS(IVR_Radio_Monthly),127
+80,Mixt : 500F=2500Fonnet_2500Foffnet ;5d,101
+81,Internat: 1000F_Zone_3;24h		,82
+82,Internat: 2000F_Zone_2;24H		,83
+83,Incoming_Bonus_woma,80
+84,EVC_100Mo,58
+85,VAS(IVR_Radio_Weekly),128
+86,CVM_200f=400MB,25
+87,FNF_Youth_ESN,70
+88,WIFI_ Family _10MBPS,129
+89,305155009,7
+90,Data_EVC_2Go24H,53
+91,1000=Unlimited7Day,0
+92,IVR Echat_Monthly_500F,78
+93,NEW_CLIR_PERMANENT_LIBERTE_MOBILE,102
+94,EVC_JOKKO30,63
+95,CVM_100F_unlimited,21
+96,EVC_Jokko_Weekly,64
+97,CVM_500f=2GB,26
+98,CVM_100f=200 MB,22
+99,All-net 500= 4000off+4000on;24H,15
+100,EVC_700Mo,62
+101,pack_chinguitel_24h,135
+102,pilot_offer6,138
+103,CVM_On-net 400f=2200F,28
+104,GPRS_3000Equal10GPORTAL,72
+105,CVM_On-net 1300f=12500,27
+106,EVC_MEGA10000F,65
+107,pilot_offer7,139
+108,150=unlimited pilot auto,2
+109,EVC_4900=12000F,60
+110,EVC_1Go,59
+111,Data_Mifi_10Go_Monthly,55
+112,APANews_weekly,10
+113,CVM_100f=500 onNet,23
+114,200=unlimited pilot auto,4
+115,GPRS_5Go_7D_PORTAL,73
+116,NEW_CLIR_TEMPRESTRICTED_LIBERTE_MOBILE,104
+117,APANews_monthly,9
+118,Data_Mifi_20Go,56
+119,GPRS_PKG_5GO_ILLIMITE,75
+120,FIFA_TS_monthly,67
+121,Data:OneTime_Pilot_1.5GB,51
+122,GPRS_BKG_1000F MIFI,74
+123,Data:New-GPRS_PKG_1500F,50
+124,Data_Mifi_10Go,54
+125,ESN_POSTPAID_CLASSIC_RENT,57
+126,pilot_offer4,136
+127,Go-NetPro-4 Go,76
+128,1500=Unlimited7Day,1
+129,MegaChrono_3000F=12500F TOUS RESEAUX,99
+130,NEW_CLIR_TEMPALLOWED_LIBERTE_MOBILE,103
+131,301765007,6
+132,SMS Max,118
+133,FIFA_TS_weekly,68
+134,"Data:1000F=700MB,7d",36
+135,CVM_150F_unlimited,24
+136,"YMGX on-net 100=700F, 24H",133
+137,Postpaid FORFAIT 10H Package,117
+138,pilot_offer5,137
+139,Package3_Monthly,114
